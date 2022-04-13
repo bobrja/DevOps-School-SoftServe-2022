@@ -14,3 +14,10 @@ EXPOSE 80
 CMD ["-D","FOREGROUND"]
 
 ENTRYPOINT ["/usr/sbin/httpd"]
+
+test
+
+dc
+s
+s
+cs
